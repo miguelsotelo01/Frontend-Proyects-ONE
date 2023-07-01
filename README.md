@@ -1,3 +1,3 @@
 # Frontend-Proyects-ONE
-Repositorio de los proyectos de los cursos de JavaScript de la Formacion Oracle Next Education. 
-Repository of the projects of the JavaScript courses of the Oracle Next Education Training
+Repositorio de los proyectos de la formacion de JavaScript de la Formacion Oracle Next Education. 
+Repository of the JavaScript training projects from Oracle Next Education training.
